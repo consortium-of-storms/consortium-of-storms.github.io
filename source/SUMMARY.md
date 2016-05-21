@@ -1,7 +1,10 @@
 # Table of Contents
 
 * [README](/README.md)
-  * [Collectors][/collectors.md]
-  * [Liches][/liches.md]
-  * [Scourged][/scourged.md]
+* [Collector the Eternal](/collectors.md)
+  * [Introduction](/collectors-introduction.md)
+* [Lich the Ichorous](/liches.md)
+  * [Introduction](/liches-introduction.md)
+* [Scourged the Wrought](/scourged.md)
+  * [Introduction](/scourged-introduction.md)
 * [Glossary](/GLOSSARY.md)
