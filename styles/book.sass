@@ -1,35 +1,62 @@
-@font-face
-  font-family: 'Doppio One'
-  font-style: normal
-  font-weight: 400
-  src: local('Doppio One Regular'), local('DoppioOne-Regular'), url(/docs/fonts/doppio-one.woff) format('woff')
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Cabin+Sketch|Poiret+One)
+@import url(https://fonts.googleapis.com/css?family=Lato:400,100,300,100italic,300italic,400italic)
 
 .book
+
   &.font-family-1
+    font-family: 'Lato', sans-serif
+
     h1,
     h2,
     h3,
     h4,
     h5,
     h6
-      font-family: 'Doppio One', sans-serif
+      font-family: 'Lato', sans-serif
+
+  &.font-family-1[data-filepath*='eternal']
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6
+      font-family: 'Poiret One', 'Lato', sans-serif
+
+  &.font-family-1[data-filepath*='lich']
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6
+      font-family: 'Cabin Sketch', 'Lato', sans-serif
+
+  &.font-family-1[data-filepath*='cyclopean']
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6
+      font-family: 'Fredericka the Great', 'Lato', sans-serif
 
   .book-header
-    font-family: 'Doppio One', sans-serif
+    display: none
 
   .book-summary
     border-right: none
 
     nav
       ul.summary
-        &::before
-          background-position: 50% 24px
-          background-repeat: no-repeat
-          background-size: 80% auto
-          background-color: #fff
-          content: ""
-          display: block
-          min-height: 100px
+        // &::before
+        //   background-position: 50% 24px
+        //   background-repeat: no-repeat
+        //   background-size: 80% auto
+        //   background-color: #fff
+        //   content: ""
+        //   display: block
+        //   min-height: 100px
 
         li.chapter
           position: relative
@@ -73,7 +100,7 @@
         > li.chapter
           border-top: 1px solid rgba(0,0,0,0.07)
           > a
-              font-family: 'Doppio One', sans-serif
+              font-family: 'Lato', sans-serif
               font-weight: bold
               opacity: 0.8
               text-transform: uppercase
