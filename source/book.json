@@ -1,0 +1,8 @@
+{
+  "gitbook": "2.x.x",
+  "title": "Consortium of Storms",
+  "description": "Homebrew Chronicles of Darkness supernaturals",
+  "language": "en",
+  "styles": { "website": "docs/styles/book.sass" },
+  "plugins": [ ]
+}

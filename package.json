@@ -1,0 +1,28 @@
+{
+  "name": "consortium-of-storms",
+  "version": "0.0.1",
+  "homepage": "https://github.com/consortium-of-storms/consortium-of-storms.github.io",
+  "private": true,
+  "authors": [
+    {
+      "name": "Joseph McCormick",
+      "email": "esmevane@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/consortium-of-storms/consortium-of-storms.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/consortium-of-storms/consortium-of-storms.github.io.git"
+  },
+  "dependencies": {},
+  "scripts": {
+    "build": "cd source && gitbook install && gitbook build && cd ..",
+    "serve": "cd source && gitbook install && gitbook serve && cd ..",
+    "clean": "ls | grep -e 'website-*' | xargs rm",
+    "release": "npm run clean && npm run build && npm run dist",
+    "dist": "cp -r source/_book/ ./"
+  },
+  "devDependencies": {}
+}
