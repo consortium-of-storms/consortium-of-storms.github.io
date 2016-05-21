@@ -1,11 +1,11 @@
-# Collector
+# Cyclopean
 
-A grim reaper, immortal doomed to forever gravitate to the worst moments in human history and usher souls to the Beyond.
+A human who has been redesigned with internal organs of alien, fungal origin in order to serve as a living computer inside of massive, slowly approaching Star Engines.
+
+# Eternal
+
+Wanderers, witnesses and immortals who unknowingly seek death and cataclysm in order to absorb the souls of the fallen.
 
 # Lich
 
-An ichorous galactic entity bound into a human sacrifice with ancient Indean Astrology.
-
-# Scourged
-
-A human, taken and colonized by a fungal alien culture.  Dismantled, vivisected, and reborn into a different sort of humanity.
+Liches are people, sacrificed and fashioned into undying avatars of extradimensional energies by forgotten South American empire.

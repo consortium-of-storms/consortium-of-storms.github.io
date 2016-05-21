@@ -1,10 +1,10 @@
 # Table of Contents
 
 * [README](/README.md)
-* [Collector the Eternal](/collectors.md)
-  * [Introduction](/collectors-introduction.md)
-* [Lich the Ichorous](/liches.md)
-  * [Introduction](/liches-introduction.md)
-* [Scourged the Wrought](/scourged.md)
-  * [Introduction](/scourged-introduction.md)
+* [Cylopean: The Host](/cyclopean.md)
+  * [Introduction](/cyclopean-introduction.md)
+* [Eternal: The Assembly](/eternal.md)
+  * [Introduction](/eternal-introduction.md)
+* [Lich: The Radiance](/lich.md)
+  * [Introduction](/lich-introduction.md)
 * [Glossary](/GLOSSARY.md)
