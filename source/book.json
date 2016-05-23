@@ -4,5 +4,11 @@
   "description": "Homebrew Chronicles of Darkness supernaturals",
   "language": "en",
   "styles": { "website": "styles/book.sass" },
-  "plugins": [ "styles-sass" ]
+  "plugins": [ "styles-sass" ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "night",
+      "size": 2
+    }
+  }
 }

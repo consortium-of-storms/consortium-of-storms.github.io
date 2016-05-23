@@ -3,9 +3,8 @@
 
 .book
 
-  &.font-family-1
-    font-family: 'Lato', sans-serif
-
+  &.font-family-1,
+  &.font-family-0
     h1,
     h2,
     h3,
@@ -13,8 +12,10 @@
     h5,
     h6
       font-family: 'Lato', sans-serif
+      text-align: center
 
-  &.font-family-1[data-filepath*='eternal']
+  &.font-family-1[data-filepath*='eternal'],
+  &.font-family-0[data-filepath*='eternal']
     h1,
     h2,
     h3,
@@ -22,8 +23,10 @@
     h5,
     h6
       font-family: 'Poiret One', 'Lato', sans-serif
+      font-weight: 100 !important
 
-  &.font-family-1[data-filepath*='lich']
+  &.font-family-1[data-filepath*='lich'],
+  &.font-family-0[data-filepath*='lich']
     h1,
     h2,
     h3,
@@ -31,8 +34,10 @@
     h5,
     h6
       font-family: 'Cabin Sketch', 'Lato', sans-serif
+      font-weight: 100 !important
 
-  &.font-family-1[data-filepath*='cyclopean']
+  &.font-family-1[data-filepath*='cyclopean'],
+  &.font-family-0[data-filepath*='cyclopean']
     h1,
     h2,
     h3,
@@ -40,23 +45,17 @@
     h5,
     h6
       font-family: 'Fredericka the Great', 'Lato', sans-serif
+      font-weight: 100 !important
 
   .book-header
-    display: none
+    a[href*='GLOSSARY'], .pull-right, h1
+      display: none
 
   .book-summary
     border-right: none
 
     nav
       ul.summary
-        // &::before
-        //   background-position: 50% 24px
-        //   background-repeat: no-repeat
-        //   background-size: 80% auto
-        //   background-color: #fff
-        //   content: ""
-        //   display: block
-        //   min-height: 100px
 
         li.chapter
           position: relative
@@ -110,6 +109,7 @@
     .page-wrapper
       .page-inner
         section
+          margin: 0 2em
           &.normal
             a
               &.glossary-term
