@@ -15,5 +15,3 @@ You are a Cyclopean: a human reborn in the service of a Star Engine.
 Unfortunately, for so long the Star Engines were adrift, they escaped notice of the Unknowable.  That is no longer true: since the distress cries of the Engines have gone out, the Unknowable have reawakened.
 
 Now they hunt down the Star Engines, seeking to eradicate the last remnants of the Distant Powers once and for all.  Because of you and your new Infected Empires, the Earth has become their latest target.
-
-{% include "./cyclopean-notes.md" %}

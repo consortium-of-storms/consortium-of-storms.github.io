@@ -2,40 +2,25 @@
 
 ## The Exquisite Designs
 
-### Eineras
+### Swarms
 
-#### The Crimson Weapons
+* **Function**: Offense and defense
 
-* **Color**: *Red*
-* **Apparata**: *Swarm*
+### Supersentients
 
-### Cerunal
+* **Function**: Intelligence and awareness
 
-#### The Diplomats
+#### Superluminals
 
-* **Color**: *Blue*
-* **Apparata**: *Supersentience*
+* **Function**: Navigation and piloting
 
-### Voinoth
+### Vibrants
 
-#### The Navigators
+* **Function**: Batteries and power cores
 
-* **Color**: *Black*
-* **Apparata**: *Infinite Presence*
+#### Chamberlains
 
-### Amperion
-
-#### The Furnaces
-
-* **Color**: *Yellow*
-* **Apparata**: *Conduit*
-
-### Romoth
-
-#### The Stewards
-
-* **Color**: *Pink*
-* **Apparata**: *Terraform*
+* **Function**: Terraforming and life support
 
 ## The Unknowable Empires
 

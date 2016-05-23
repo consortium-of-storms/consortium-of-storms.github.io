@@ -1,4 +1,6 @@
-# Lich:  The Notes
+## Design notes
+
+### Quick and dirty
 
 * Official Name: the Baleful
 * Created by: the Birth Rite of Black Suns
