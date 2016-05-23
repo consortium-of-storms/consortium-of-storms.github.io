@@ -1,35 +1,19 @@
 # Introduction
 
-You were taken from Earth by an alien machine, only to be sundered alive, and Operated upon.  Your organs were violently pulled from you and then you were _rebuilt_ with a series of Exquisite Apparata.  Now the Apparata are a part of you and fill you with Whispers and strange, incomprehensible memories.
+Cyclopean is a game of ancient alien horrors.  In it, we take control of humans who have been claimed by strange and mad alien technology, turned into living machine components of supersentient biomechanical planets.
 
-They continually churn and operate inside of you.  You don't eat, sleep or breathe anymore.  You see new, strange, fabrics of reality lain over the familiar everywhere you turn.
+These planets, the Star Engines, were made hundreds of thousands of years ago by a collective of empires called the Distant Powers.  Eventually the Distant Powers fell to a war against megalithic entities called the Unknowable, and now their Star Engines are all that is left.
 
-Throughout, you did not pass out, did not die - your memories of the entire process are vivid.  It felt like an eternity of dehumanizing pain.  But all of those memories are _internal things_.
+For so long, the Star Engines have been inert, drifting through the cosmos like frozen hulks.  But around fifty thousand years ago, they began to reawaken and cry out in distress across the void to Empires that were no longer listening.
 
-There are only two pieces of *external evidence* of your torture and reassembly:
+In some ways the Star Engines are like the God-Machine, except that they have no thriving world to hide within, and no legion of angels to command around.
 
-There are the scars where you were pulled apart by the Star Engine - now that you've been drawn back together, those scars bulge with oily, fungal seams.
+That's where Cyclopeans come in: where the Star Engines have no legion, they have discovered Earth, and now they collude to infect the Earth's people with their strange organic machinery.
 
-And there is the Lidless Eye.
+You are a Cyclopean: a human reborn in the service of a Star Engine.
 
-### The Lidless Eye
+Unfortunately, for so long the Star Engines were adrift, they escaped notice of the Unknowable.  That is no longer true: since the distress cries of the Engines have gone out, the Unknowable have reawakened.
 
-It is the only thing you and all of the other Infected have in common:  One single, massive, palm-sized Lidless Eye.  You can even see through it, and so can whatever now forever Whispers in your skull.  Where the Lidless Eye is varies, but in all cases it is hideous and alien: an unholy testament to your bygone humanity.
+Now they hunt down the Star Engines, seeking to eradicate the last remnants of the Distant Powers once and for all.  Because of you and your new Infected Empires, the Earth has become their latest target.
 
-## What exactly just happened?
-
-You were wandering alone - either you took a walk through a park, a short cut through an alleyway, or you were alone by a lake - and you thought you heard a whisper.  You paused to confirm, and that moment of hesitation, the world around you swept up in sudden light and you were *suddenly somewhere else*.
-
-You were inside the Operation Chamber of a Star Engine.
-
-## The Star Engines
-
-Each Star Engine was once vessel for one of the many Empires of the Unknowable.  The Empires were ancient intergalactic civilizations, which grew powerful and then eventually fell under the dominion of the Distant Host: colossal, organic, alien proto-Gods.
-
-Once the Star Engines traversed the universe at the command of the Unknowable, but now that those ancient Empires are dead and decaying, the Engines call for help, trying to gradually reinvigorate their missing masters by rebuilding other species into their image.
-
-The Star Engine spoke to you, as you were vivisected, in a series of echoing Whispers.  It told you all of this, and then told you that you were part of that Exquisite Design - you were to stand in the place of this Unknowable race, and become part of the fungal, dimensional machinery they've left behind.
-
-## What now?
-
-You are one of the Engraved, a human repurposed by the indelicate unanesthetized surgery of a Star Engine's operating Chamber.  Whatever your previous life, you now serve the Star Engine and its fallen Unknowable Empire.  Sometimes even willingly, you wage continual galactic war against the grotesque horrors which that empire has left behind.
+{% include "./cyclopean-notes.md" %}
