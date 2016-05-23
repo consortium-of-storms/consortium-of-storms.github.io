@@ -4,6 +4,7 @@ Enclosed are three completely homebrew supernatural books dedicated to the Chron
 
 This content will be also going through heavy continual updating.  I'll do my best to include a Change Log as things mature, but for now all the changes can actually be seen on the [github page][github]
 
+
 This content is released as a creative commons non-commercial book.  That means you can't sell it, but you can do whatever you want with any of the concepts so long as its authors and original work are cited and credited.
 
 [github]: https://github.com/consortium-of-storms/consortium-of-storms.github.io
