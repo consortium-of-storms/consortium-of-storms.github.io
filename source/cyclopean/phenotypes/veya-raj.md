@@ -1,1 +1,1 @@
-### Veya'raj, the Eminent
+### Veya'raj, the Hivemind
