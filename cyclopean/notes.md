@@ -28,3 +28,15 @@
 * The God-Machine and angels have it out for Cyclopeans.  It would make the forces of the God-Machine very happy to nip the Cyclopean problem in the bud.
 * Demons have no idea what to think of Cyclopeans, but recognize them as somehow related.  Some demons believe that the Cyclopean Fold could potentially even be the _actual Hell_.
 * Design-wise, Cyclopeans should have a lot in common with Demons and Prometheans.  Their struggles are tremendous but inobvious to humans in general, and they should provoke some sort of subtle sensation of anxiety and disgust around humans given enough time.
+
+### Cool words
+
+Cyclopeans sit at a junction of Victorian era / pulp era tech and fungal space horror.  Most words in their mythos should evolve around that.
+
+* Slime mold
+* Mold
+* Spoor
+* Creep
+* Spawn
+* Spore
+* Any mushroomy name, really
