@@ -1,3 +1,3 @@
-### Superluminals
+### Pioneers
 
 * **Function**: Navigation and piloting

@@ -1,3 +1,3 @@
-### Supersentients
+### Sensors
 
 * **Function**: Intelligence and awareness

@@ -1,1 +1,0 @@
-### Aqatarid, the Luminous
