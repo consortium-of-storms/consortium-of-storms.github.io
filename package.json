@@ -24,5 +24,7 @@
     "release": "npm run clean && npm run build && npm run dist",
     "dist": "cp -r source/_book/ ./"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
 }
