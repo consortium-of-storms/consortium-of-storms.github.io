@@ -10,8 +10,8 @@ There are five major Designs and almost all Cyclopeans are Engraved with Apparat
 
 Each Swarm carries with it a set of responsibilities, and an overall function within their Star Engine of origin.  Eventually, the Star Engines would see themselves populated with enough Cyclopeans to take over all primary functionality: ideally, before the Unknowable have fully returned from the Fold, so that the remnant vessel Gods of the Distant Powers can have any hope of surviving the second coming of the ancient intergalactic conflict.
 
-{% include "./designs/chamberlains.md" %}
-{% include "./designs/originators.md" %}
-{% include "./designs/superluminals.md" %}
-{% include "./designs/supersentients.md" %}
-{% include "./designs/swarms.md" %}
+{% include "./designs/stewards.md" %}
+{% include "./designs/crucibles.md" %}
+{% include "./designs/pioneers.md" %}
+{% include "./designs/sensors.md" %}
+{% include "./designs/armadas.md" %}

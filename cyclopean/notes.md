@@ -10,7 +10,7 @@
 * Energy: Echo
 * Supernatural Realm: The Fold
 * Supernatural Ability: Apparata
-* Supernatural Ability: Unearthly Whispers
+* Supernatural Ability: Cultures
 * Supernatural Ability: Inversions
 * Category: Exquisite Design
 * Loyalty: Phenotype
@@ -40,3 +40,52 @@ Cyclopeans sit at a junction of Victorian era / pulp era tech and fungal space h
 * Spawn
 * Spore
 * Any mushroomy name, really
+
+## Exquisite Design Description Guidelines
+
+Each Exquisite Design section should contain the following:
+
+* What they are supposed to do
+* What they pragmatically do
+* What they used to do
+* How things went right
+* How things went wrong
+* The most powerful / cool things they can do
+* What the Engraving experience is like
+* How they look as modern Cyclopeans
+* Several stories of potential Cyclopeans
+* Prevalent Implementations (sub-designs)
+* Their relationship with the Fold
+* Why specific humans are chosen
+* Their Engraved Apparatus
+* Their Incoherency
+* Their Unearthly Whispers
+* Nicknames (at least one good and one derogatory)
+
+## Change names:
+
+* Chamberlains become Stewards
+* Supersentients become Sensors
+* Superluminals become Pioneers
+* Swarms become Armadas
+* Originators become Crucibles
+
+Alternately, words or titles based on those.  Instead of "Design", even, these could be "Titles".  And the Design could be something related to it.
+
+## System changes
+
+* Whispers must be tied in to Supersentience
+* Cyclopeans gradually dissolve into the fold as they gain in Warp and lose Coherence
+* Echo?  Why?  How is that fungal at all?
+
+### Powerframes
+
+Cultures are interesting and bring to mind a specific ultra-powerful sort of idea: with time and maintenance, a Cyclopean should be able to spread a culture which will gradually build strength and grant him abilities so long as he spends a certain amount of time around that culture.  These are the massive powers of the Cyclopeans and result in things like grotesque usurpations of other living beings by dream-god flesh, and/or pseudo-insect super-intelligences which start to wage war on the human race both in and out of the Fold.
+
+The operating idea here is that Cultures should be pervasive, powerful, horrifying, and very rewarding to sow.
+
+## Fold / Space flight and inversion giant battles
+
+* New skill:  Pilot
+* Is identical to mass combat, with aggregate stats
+* Essentially you equip a spaceship and do damage with it

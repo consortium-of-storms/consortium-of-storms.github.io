@@ -14,8 +14,8 @@ Which is a fancy way of saying that, for example, while all of the Veya'raj have
 
 In a pragmatic way, Phenotypes have formed subcultures within the Cyclopean superculture.  Although they aren't necessarily predisposed to liking one another, they absolutely have a lot in common with one another and this fosters a great deal of comfort.  It's traumatic to become a Cyclopean, to say the least, and finding others like yourself means a lot to a newly posthuman.
 
-{% include "./phenotypes/aqatarid.md" %}
-{% include "./phenotypes/myacenid.md" %}
-{% include "./phenotypes/qia-amon.md" %}
-{% include "./phenotypes/shanaoth.md" %}
-{% include "./phenotypes/veya-raj.md" %}
+{% include "./phenotypes/aqat-ara.md" %}
+{% include "./phenotypes/myotheid.md" %}
+{% include "./phenotypes/qianaoth.md" %}
+{% include "./phenotypes/sheojoth.md" %}
+{% include "./phenotypes/vey-amon.md" %}
