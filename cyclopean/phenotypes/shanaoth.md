@@ -1,1 +1,0 @@
-### Shanaoth, the Manifold
