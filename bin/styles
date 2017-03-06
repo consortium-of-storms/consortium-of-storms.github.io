@@ -1,15 +1,15 @@
 #!/usr/bin/env node
 
-const path = require("path")
-const sass = require("node-sass")
-const file = path.resolve(__dirname, "../source/styles/website.sass")
-const outFile = path.resolve(__dirname, "../source/styles/website.css")
+const fs     = require("fs")
+const path   = require("path")
+const sass   = require("node-sass")
+const file   = path.resolve(__dirname, "../source/styles/website.sass")
+const output = path.resolve(__dirname, "../source/styles/website.css")
 
 console.log(`Rendering ${file}`)
-console.log(`Placing output styles in ${outFile}`)
 
-sass.renderSync({
-  file,
-  outFile,
-  indentedSyntax: true
-})
+const result = sass.renderSync({ file, indentedSyntax: true })
+
+console.log(`Placing output styles in ${output}`)
+
+fs.writeFileSync(output, result.css);
