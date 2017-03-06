@@ -2,9 +2,14 @@
 
 const path = require("path")
 const sass = require("node-sass")
+const file = path.resolve(__dirname, "../source/styles/website.sass")
+const outfile = path.resolve(__dirname, "../source/styles/website.css")
+
+console.log(`Rendering ${file}`)
+console.log(`Placing output styles in ${outfile}`)
 
 sass.renderSync({
-  file: path.resolve(__dirname, "../source/styles/website.sass"),
-  outfile: path.resolve(__dirname, "../source/styles/website.css"),
+  file,
+  outfile,
   indentedSyntax: true
 })
