@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+NPM=`which npm`
+
+if [ -e $NPM ]; then
+  $NPM run sass:build && \
+  $NPM run book:install && \
+  $NPM run book:build && \
+  $NPM run book:dist
+else
+  echo "Please install NPM before attempting a release."
+fi

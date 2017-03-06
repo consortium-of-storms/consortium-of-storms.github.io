@@ -20,12 +20,14 @@
   "scripts": {
     "book": "gitbook",
     "book:build": "gitbook build source dist",
+    "book:dist": "cp -r dist/ ./",
     "book:serve": "gitbook serve source",
     "book:install": "gitbook install",
-    "release": "npm run book:install && npm run book:build && npm run book:dist",
-    "dist": "cp -r dist/ ./"
+    "sass:build": "bin/styles",
+    "release": "bin/release"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.0"
+    "gitbook-cli": "^2.3.0",
+    "node-sass": "^4.5.0"
   }
 }

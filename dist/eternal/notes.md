@@ -7,8 +7,8 @@
 * Integrity: Passion
 * Power: Witness
 * Energy: Gravitas
-* Supernatural Restriction: Yearning
-* Supernatural Ability: Symbolism
-* Supernatural Ability: Imperatives
+* Restriction: Yearning
+* Ability: Symbolism
+* Ability: Imperatives
 * Category: Dooms
 * Loyalty: Endeavors

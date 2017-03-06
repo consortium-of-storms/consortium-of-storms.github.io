@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+const path = require("path")
+const sass = require("node-sass")
+
+sass.renderSync({
+  file: path.resolve(__dirname, "../source/styles/website.sass"),
+  outfile: path.resolve(__dirname, "../source/styles/website.css"),
+  indentedSyntax: true
+})

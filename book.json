@@ -1,10 +1,8 @@
 {
   "gitbook": "2.x.x",
   "title": "Consortium of Storms",
-  "description": "Homebrew Chronicles of Darkness supernaturals",
+  "description": "Travel the world of storms and shadows",
   "language": "en",
-  "styles": { "website": "styles/book.sass" },
-  "plugins": [ "styles-sass" ],
   "pluginsConfig": {
     "fontsettings": {
       "theme": "night",
