@@ -3,13 +3,13 @@
 const path = require("path")
 const sass = require("node-sass")
 const file = path.resolve(__dirname, "../source/styles/website.sass")
-const outfile = path.resolve(__dirname, "../source/styles/website.css")
+const outFile = path.resolve(__dirname, "../source/styles/website.css")
 
 console.log(`Rendering ${file}`)
-console.log(`Placing output styles in ${outfile}`)
+console.log(`Placing output styles in ${outFile}`)
 
 sass.renderSync({
   file,
-  outfile,
+  outFile,
   indentedSyntax: true
 })
